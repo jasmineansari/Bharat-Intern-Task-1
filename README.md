@@ -44,3 +44,6 @@ This project demonstrates how to use various tools and techniques to clean, mani
 - The top sales category distribution showed that technology accounted for almost half of the total sales, followed by office supplies and furniture
 - The top N city sales showed that New York City was the top city by sales, followed by Los Angeles and Seattle
 - The top N customer sales showed that Smith was the top customer by sales, followed by Jones and Johnson
+
+
+Here is the link for my dashboard: https://public.tableau.com/views/BharatInternTask1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
